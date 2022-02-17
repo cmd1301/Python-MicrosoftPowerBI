@@ -1,0 +1,1 @@
+This is a project where Python was used to wrangle the data and the codes were uses in Microsoft PowerBI to generate a human resources report.
